@@ -2,7 +2,7 @@
 - 🔭 Hoje trabalho como Analista JR I
 - 🌱 Estudando Java, JavaScript e Python.
 - 📫 Contate-me no email: railsondasilva@live.com
-- 👔 Em busca de uma oportunidade como Desenvolvedor Web(Backend, Frontend, FullStack) e/ou Desenvolvimento de Sistemas.
+- 👔 Em busca de uma oportunidade como Web Developer(Backend, Frontend, FullStack) ou System Developer.
 
 <br>
 <div align="center">
@@ -23,6 +23,8 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ 
+  <img align="right" alt="Yoda" height="150" src="https://cdn.discordapp.com/attachments/915739581981270098/920146678907043861/Master_Yoda.png" style="max-width: 100%;">
 </div>
   
   ##
