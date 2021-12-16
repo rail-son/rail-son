@@ -37,5 +37,9 @@
   <a href="linkedin.com/in/railson-silva-1121b2b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rail-son/rail-son/blob/output/github-contribution-grid-snake.svg)
- 
+<br>  
+  <h1 align="center"> Visitors :detective:</h1> <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/rail-son/count.svg" />
+ </p>
 </div>
