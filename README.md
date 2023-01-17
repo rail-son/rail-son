@@ -1,8 +1,8 @@
 <h1 align ="center">My dear! Welcome you are! I'm Railson </h1>
 <p>- 🔭 Today I work as a JR Analyst I</p>
 <p>- 🌱 I’m currently learning Java, JavaScript and Python.</p>
-<p>- 📫 How to reach me: https://www.linkedin.com/in/railson-silva-1121b2b7/</p>
-<p>- 👔 Looking for an opportunity as a Web Developer(Backend, Frontend, FullStack) or Systems Developer.</p>
+<p>- 📫 How to reach me: https://www.linkedin.com/in/rail-son/</p>
+<p>- 👔 Looking for an opportunity as a Web Developer(Backend, Frontend) or Systems Developer.</p>
 
 
 <br>
