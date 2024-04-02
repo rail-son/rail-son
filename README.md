@@ -1,5 +1,5 @@
 <h1 align ="center">My dear! Welcome you are! I'm Railson </h1>
-<p>- 🔭 Today I work as a JR Analyst II</p>
+<p>- 🔭 Today I work as a Quality Assurance Analyst</p>
 <p>- 🌱 I’m currently learning Java, JavaScript and Python.</p>
 <p>- 📫 How to reach me: https://www.linkedin.com/in/rail-son/</p>
 <p>- 👔 Looking for an opportunity as a Web Developer(Backend, Frontend) or Systems Developer.</p>
