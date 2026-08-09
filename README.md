@@ -12,6 +12,8 @@
 
 ### 👨‍💻 Sobre
 
+<img align="right" alt="Yoda" height="170" src="https://static.wikia.nocookie.net/disney/images/9/95/Master_Yoda.png" />
+
 - 🔭 Construo **sistemas corporativos de ponta a ponta** — do entendimento da regra de negócio à implementação, integração e sustentação.
 - ⚙️ Foco em **automação de processos, integrações entre sistemas, performance e confiabilidade operacional**.
 - 🧪 Background em **QA** — o que me deixou meio obcecado por análise de causa raiz, prevenção de regressões e código rastreável.
